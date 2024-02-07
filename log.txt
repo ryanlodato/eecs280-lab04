@@ -1,3 +1,27 @@
+commit 51ecd047e9e6929ea4c504cbc2820a96509a7c45
+Author: Ryan Lodato <rlodato@umich.edu>
+Date:   Wed Feb 7 17:51:12 2024 -0500
+
+    scribe changes
+
+commit 78b79a1cdb4cc045ed1d7b47b5601759fefdf6d4
+Author: Ryan Lodato <rlodato@umich.edu>
+Date:   Wed Feb 7 17:45:42 2024 -0500
+
+    coder 1 edit file
+
+commit 1314a801eb69c979be31c9f60bb258dd19a26493
+Author: Ryan Lodato <rlodato@umich.edu>
+Date:   Wed Feb 7 17:37:50 2024 -0500
+
+    coder 2 add file
+
+commit 289080fff4d4d46483e614ce05226fa4a7d30ff5
+Author: Ryan Lodato <rlodato@umich.edu>
+Date:   Wed Feb 7 17:37:15 2024 -0500
+
+    coder 1 add file
+
 commit 348dd9dcf47c7ced9d9f1eddfc2b8f29a5e598ff
 Author: ryanlodato <159382087+ryanlodato@users.noreply.github.com>
 Date:   Wed Feb 7 17:16:15 2024 -0500
